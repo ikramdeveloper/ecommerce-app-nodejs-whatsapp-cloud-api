@@ -13,19 +13,19 @@ To set up this Ecommerce App, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/ecommerce-app.git
+   git clone https://github.com/ikramdeveloper/ecommerce-app-nodejs-whatsapp-cloud-api.git
    ```
 
 2. Navigate to the project directory:
    
    ```bash
-   cd ecommerce-app
+   cd ecommerce-app-nodejs-whatsapp-cloud-api
    ```
 
 4. Install dependencies:
    
    ```bash
-   npm i # npm install
+   npm i       # npm install
    ```
 
 6. Follow the instructions in [blog.logrocket.com](https://blog.logrocket.com/build-ecommerce-app-whatsapp-cloud-api-node-js/) to configure and set up the WhatsApp Business API.
