@@ -47,7 +47,7 @@ To set up this Ecommerce App, follow these steps:
 
 👋 Hello, I'm Ikram Ul Haq - Web Developer & Programmer
 
-☕ [Buy Me A Coffee](https://www.buymeacoffee.com/ikramdev)
+☕ [Buy Me A Coffee](https://www.buymeacoffee.com/ikramdeveloper)
 
 🚀 Follow Me:
 
